@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My app with extendable view</string>
+    <string name="hello_world"> ola mundo </string>
+</resources>
